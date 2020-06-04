@@ -21,8 +21,8 @@ Apagar produto
     Então não devo ver esse item no catálogo
 
 # Desafio do Ninja
-Desistir da remoção
-    Dado que eu tenho o rpoduto "zelda.json"
-    Quando solicito a exclusão
-    Mas cancelo a solicitação
-    Então devo ver este esse na lista
+#Desistir da remoção
+    #Dado que eu tenho o rpoduto "zelda.json"
+    #Quando solicito a exclusão
+    #Mas cancelo a solicitação
+    #Então devo ver este esse na lista

@@ -81,4 +81,4 @@ E confirmo a solicitação
     ProductPage.Confirm Removal
 
 Então não devo ver esse item no catálogo
-    Wait Until Element Does Not Contain     class:table     ${product_json['title']}
+    Wait Until Element Does Not Contain     Class:Table     ${product_json['title']}
