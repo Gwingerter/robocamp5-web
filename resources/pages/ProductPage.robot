@@ -18,6 +18,9 @@ Request Removal
 
     Click Element    xpath://tr[td//text()[contains(., '${title}')]]//button
 
+Cancel Removal  
+    Click Element   class:swal2-cancel
+
 Confirm Removal
     Click Element   class:swal2-confirm
 
